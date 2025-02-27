@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844957699728",
+    "project_id": "authforapp-4f61e",
+    "storage_bucket": "authforapp-4f61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844957699728:android:7b35fc354cb64f22889215",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jNAfXZqKIRnQlv7JfXjyjsWpL_p1BuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844957699728:android:7941b10bc3d16db7889215",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jNAfXZqKIRnQlv7JfXjyjsWpL_p1BuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
