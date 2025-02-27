@@ -88,10 +88,7 @@ Please make sure your code adheres to the Flutter style guidelines.
 
 ## License
 
-This project is licensed under the [Specify License, e.g., MIT License] - see the [LICENSE](LICENSE) file for details.  *Please add the appropriate LICENSE file to your repository*.  Consider one of the following:
-* [MIT License](https://opensource.org/license/mit/)
-* [Apache 2.0 License](https://opensource.org/license/apache-2-0/)
-* [GPL 3.0 License](https://www.gnu.org/licenses/gpl-3.0)
+This project is licensed under the Apache 2.0 Licence - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
